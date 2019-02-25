@@ -1,6 +1,6 @@
-# rsschool-2019Q1-html-css 
-Juliya Pakidzka
 
-HTML CSS Basics: https://www.codecademy.com/users/juliyaPakidzka4293641960/achievements
+## Juliya Pakidzka
 
-HtmlAcademy: https://htmlacademy.ru/profile/id956891/achievements
+* *[HTML CSS Basics](https://www.codecademy.com/users/juliyaPakidzka4293641960/achievements)*
+
+* *[Html Academy](https://htmlacademy.ru/profile/id956891/achievements)*
